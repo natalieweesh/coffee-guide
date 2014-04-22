@@ -234,6 +234,7 @@ body {
   font-family: 'Comfortaa', sans-serif;
   text-align: center;
   margin: 0;
+  letter-spacing: 0.07em;
 }
 p {
   max-width: 400px;
@@ -250,7 +251,7 @@ em {
 .fixed {
   position: fixed;
   background: #71C3D0;
-  z-index: 3;
+  z-index: 4;
   padding: 0 1em;
   text-decoration: none;
   color: white;
