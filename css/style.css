@@ -1,0 +1,1547 @@
+@-webkit-keyframes steam-rising {
+  0% {
+    top: 14px;
+  }
+
+  5% {
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+    left: -6px;
+  }
+
+  40% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+  }
+
+  60% {
+    -webkit-transform: rotate(17deg);
+    transform: rotate(17deg);
+  }
+
+  80% {
+    -webkit-transform: rotate(-19deg);
+    transform: rotate(-19deg);
+    opacity: 1;
+  }
+
+  100% {
+    top: -12px;
+    left: -10px;
+    opacity: 0;
+  }
+}
+@keyframes steam-rising {
+  0% {
+    top: 14px;
+  }
+
+  5% {
+    opacity: 1;
+  }
+
+  20% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+    left: -6px;
+  }
+
+  40% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+  }
+
+  60% {
+    -webkit-transform: rotate(17deg);
+    transform: rotate(17deg);
+  }
+
+  80% {
+    -webkit-transform: rotate(-19deg);
+    transform: rotate(-19deg);
+    opacity: 1;
+  }
+
+  100% {
+    top: -12px;
+    left: -10px;
+    opacity: 0;
+  }
+}
+@-webkit-keyframes coffee-plus-water-full {
+  75% {
+    height: 44px;
+    border-top: 4px solid #915930;
+  }
+
+  100% {
+    height: 44px;
+    border-top: 4px solid #915930;
+  }
+}
+@keyframes coffee-plus-water-full {
+  75% {
+    height: 44px;
+    border-top: 4px solid #915930;
+  }
+
+  100% {
+    height: 44px;
+    border-top: 4px solid #915930;
+  }
+}
+@-webkit-keyframes coffee-plus-water-halfway {
+  100% {
+    height: 15px;
+    border-top: 6px solid #915930;
+  }
+}
+@keyframes coffee-plus-water-halfway {
+  100% {
+    height: 15px;
+    border-top: 6px solid #915930;
+  }
+}
+@-webkit-keyframes water-stopping {
+  60% {
+    height: 62px;
+  }
+
+  70% {
+    height: 0;
+    width: 5px;
+    border-width: 4px;
+  }
+
+  75% {
+    width: 0;
+    height: 0;
+    border-width: 0;
+  }
+
+  100% {
+    width: 0;
+    height: 0;
+    border-width: 0;
+  }
+}
+@keyframes water-stopping {
+  60% {
+    height: 62px;
+  }
+
+  70% {
+    height: 0;
+    width: 5px;
+    border-width: 4px;
+  }
+
+  75% {
+    width: 0;
+    height: 0;
+    border-width: 0;
+  }
+
+  100% {
+    width: 0;
+    height: 0;
+    border-width: 0;
+  }
+}
+@-webkit-keyframes water-moving {
+  15% {
+    left: 10px;
+  }
+
+  45% {
+    left: 26px;
+  }
+
+  60% {
+    left: 20px;
+  }
+}
+@keyframes water-moving {
+  15% {
+    left: 10px;
+  }
+
+  45% {
+    left: 26px;
+  }
+
+  60% {
+    left: 20px;
+  }
+}
+@-webkit-keyframes kettle-moving {
+  15% {
+    left: 26px;
+  }
+
+  45% {
+    left: 44px;
+  }
+
+  60% {
+    left: 36px;
+  }
+}
+@keyframes kettle-moving {
+  15% {
+    left: 26px;
+  }
+
+  45% {
+    left: 44px;
+  }
+
+  60% {
+    left: 36px;
+  }
+}
+@-webkit-keyframes foam-disappear {
+  100% {
+    background: #603620;
+  }
+}
+@keyframes foam-disappear {
+  100% {
+    background: #603620;
+  }
+}
+@-webkit-keyframes coffee-plunge {
+  21% {
+    height: 45px;
+  }
+
+  100% {
+    height: 10px;
+  }
+}
+@keyframes coffee-plunge {
+  21% {
+    height: 45px;
+  }
+
+  100% {
+    height: 10px;
+  }
+}
+@-webkit-keyframes plunge {
+  15% {
+    top: -50px;
+  }
+
+  100% {
+    top: -10px;
+  }
+}
+@keyframes plunge {
+  15% {
+    top: -50px;
+  }
+
+  100% {
+    top: -10px;
+  }
+}
+@-webkit-keyframes grind-fall {
+  0% {
+    top: -2px;
+  }
+
+  100% {
+    top: 26px;
+  }
+}
+@keyframes grind-fall {
+  0% {
+    top: -2px;
+  }
+
+  100% {
+    top: 26px;
+  }
+}
+@-webkit-keyframes handle-oscillation {
+  0% {
+    width: 26px;
+    left: 1px;
+  }
+
+  25% {
+    width: 6px;
+    left: 21px;
+  }
+
+  50% {
+    width: 25px;
+    left: 21px;
+  }
+
+  75% {
+    width: 6px;
+    left: 21px;
+  }
+
+  100% {
+    width: 26px;
+    left: 1px;
+  }
+}
+@keyframes handle-oscillation {
+  0% {
+    width: 26px;
+    left: 1px;
+  }
+
+  25% {
+    width: 6px;
+    left: 21px;
+  }
+
+  50% {
+    width: 25px;
+    left: 21px;
+  }
+
+  75% {
+    width: 6px;
+    left: 21px;
+  }
+
+  100% {
+    width: 26px;
+    left: 1px;
+  }
+}
+@-webkit-keyframes distance-shadow {
+  25% {
+    background: #6E6E6E;
+  }
+
+  50% {
+    background: gray;
+  }
+
+  75% {
+    background: #949494;
+  }
+
+  100% {
+    background: gray;
+  }
+}
+@keyframes distance-shadow {
+  25% {
+    background: #6E6E6E;
+  }
+
+  50% {
+    background: gray;
+  }
+
+  75% {
+    background: #949494;
+  }
+
+  100% {
+    background: gray;
+  }
+}
+@-webkit-keyframes knob-rotation {
+  25% {
+    margin-left: 20px;
+  }
+
+  50% {
+    margin-left: 39px;
+  }
+
+  75% {
+    margin-left: 20px;
+  }
+
+  100% {
+    margin-left: 0;
+  }
+}
+@keyframes knob-rotation {
+  25% {
+    margin-left: 20px;
+  }
+
+  50% {
+    margin-left: 39px;
+  }
+
+  75% {
+    margin-left: 20px;
+  }
+
+  100% {
+    margin-left: 0;
+  }
+}
+@-webkit-keyframes french-press-stir {
+  10% {
+    top: 4px;
+    left: 70px;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+
+  20% {
+    top: -58px;
+    left: 70px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  30% {
+    left: 18px;
+    top: -58px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  40% {
+    top: -10px;
+    left: 18px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  50% {
+    left: 8px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  60% {
+    left: 26px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  70% {
+    left: 8px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  80% {
+    left: 26px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  90% {
+    left: 8px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    left: 18px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+@keyframes french-press-stir {
+  10% {
+    top: 4px;
+    left: 70px;
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+
+  20% {
+    top: -58px;
+    left: 70px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  30% {
+    left: 18px;
+    top: -58px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  40% {
+    top: -10px;
+    left: 18px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  50% {
+    left: 8px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  60% {
+    left: 26px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  70% {
+    left: 8px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  80% {
+    left: 26px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  90% {
+    left: 8px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    left: 18px;
+    top: -10px;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+}
+body {
+  text-transform: uppercase;
+  font-family: 'Comfortaa', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+p {
+  max-width: 400px;
+  margin: 1.5em auto;
+  text-align: left;
+  padding: 0 0.5em;
+  z-index: -2;
+}
+
+em {
+  font-size: 2em;
+  text-align: center;
+  font-style: normal;
+}
+
+.fixed {
+  position: fixed;
+  background: #71C3D0;
+  z-index: 3;
+  padding: 0 1em;
+  text-decoration: none;
+  color: white;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 0 5px 5px 0;
+  top: 20px;
+  left: 0;
+}
+.fixed:nth-of-type(2) {
+  right: 0;
+  left: auto;
+  border-radius: 5px 0 0 5px;
+}
+
+section {
+  padding-top: 80px;
+}
+
+.grinder .handle {
+  position: relative;
+  height: 25px;
+}
+.grinder .handle .knob {
+  position: relative;
+  width: 8px;
+  height: 10px;
+  background: red;
+  border-radius: 0 0 3px 3px;
+  -webkit-animation-name: knob-rotation;
+  animation-name: knob-rotation;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.grinder .handle .knob:after {
+  content: "";
+  display: block;
+  width: 6px;
+  height: 12px;
+  background: gray;
+  position: absolute;
+  top: 10px;
+  left: 1px;
+  -webkit-animation-name: distance-shadow;
+  animation-name: distance-shadow;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.grinder .handle .horizontal {
+  height: 5px;
+  width: 26px;
+  background: gray;
+  position: absolute;
+  top: 20px;
+  left: 1px;
+  -webkit-animation-name: handle-oscillation;
+  animation-name: handle-oscillation;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.grinder .middle {
+  height: 35px;
+  position: relative;
+  z-index: 1;
+  margin-top: 8px;
+  margin-left: 6px;
+  height: 25px;
+  width: 36px;
+  background: #0E112A;
+  border-radius: 0 0 17px 17px;
+}
+.grinder .middle:after {
+  position: absolute;
+  top: 20px;
+  width: 30px;
+  height: 5px;
+  left: 3px;
+  background: #000;
+  content: "";
+}
+.grinder .middle:before {
+  position: absolute;
+  content: "";
+  top: -10px;
+  width: 6px;
+  height: 10px;
+  display: block;
+  background: gray;
+  left: 15px;
+}
+.grinder .bottom {
+  position: relative;
+  height: 30px;
+  width: 38px;
+  margin-left: 5px;
+  margin-top: -2px;
+  background: #e6e6e6;
+  border-radius: 15px 15px 8px 8px;
+  border-bottom: 7px solid black;
+}
+.grinder b {
+  width: 4px;
+  height: 4px;
+  border-radius: 4px;
+  background: #603620;
+  display: block;
+  left: 10px;
+  position: absolute;
+  -webkit-animation-name: grind-fall;
+  animation-name: grind-fall;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.grinder b:nth-of-type(2) {
+  left: 24px;
+  -webkit-animation-delay: 0.7s;
+  animation-delay: 0.7s;
+}
+.grinder b:nth-of-type(3) {
+  left: 18px;
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
+.grinder b:nth-of-type(4) {
+  left: 13px;
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+.grinder b:nth-of-type(5) {
+  left: 18px;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+.grinder b:nth-of-type(6) {
+  left: 11px;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+}
+.grinder b:nth-of-type(7) {
+  left: 19px;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
+}
+.grinder b:nth-of-type(8) {
+  left: 22px;
+  -webkit-animation-delay: 0.2s;
+  animation-delay: 0.2s;
+}
+
+.french-press {
+  position: relative;
+}
+.french-press.with-lid {
+  margin-top: 70px;
+}
+.french-press.add-water-halfway {
+  margin-top: 50px;
+}
+.french-press.add-water-halfway .coffee {
+  border-top: 0px solid #915930;
+  -webkit-animation-name: coffee-plus-water-halfway;
+  animation-name: coffee-plus-water-halfway;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.french-press .stirrer {
+  height: 48px;
+  width: 4px;
+  background: #C79457;
+  position: absolute;
+  top: 4px;
+  left: 70px;
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  -webkit-transform-origin: center bottom;
+  -ms-transform-origin: center bottom;
+  transform-origin: center bottom;
+  -webkit-animation-name: french-press-stir;
+  animation-name: french-press-stir;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  animation-direction: alternate;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+  z-index: -1;
+  border-radius: 5px 5px 0 0;
+}
+.french-press .stirrer:after {
+  position: absolute;
+  display: block;
+  content: "";
+  width: 12px;
+  height: 15px;
+  border-radius: 50%;
+  background: #C79457;
+  top: 40px;
+  left: -4px;
+}
+.french-press.stirring .coffee {
+  height: 44px;
+  border-top: 4px solid #915930;
+}
+.french-press.add-water-full .coffee {
+  height: 15px;
+  border-top: 6px solid #915930;
+  -webkit-animation-name: coffee-plus-water-full;
+  animation-name: coffee-plus-water-full;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.french-press .lid {
+  width: 38px;
+  height: 10px;
+  border-radius: 12px 12px 0 0;
+  background: #424242;
+  position: absolute;
+  z-index: 3;
+  top: -10px;
+}
+.french-press .plunger {
+  width: 4px;
+  height: 50px;
+  top: -50px;
+  background: #A4A4A4;
+  position: absolute;
+  z-index: -2;
+  left: 17px;
+}
+.french-press .plunger.plunging {
+  -webkit-animation-name: plunge;
+  animation-name: plunge;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+}
+.french-press .plunger:before {
+  content: "";
+  display: block;
+  width: 8px;
+  height: 8px;
+  border-radius: 4px;
+  background: red;
+  top: -8px;
+  left: -2px;
+  position: absolute;
+}
+.french-press .plunger:after {
+  content: "";
+  display: block;
+  width: 30px;
+  height: 3px;
+  background: #A4A4A4;
+  position: absolute;
+  top: 49px;
+  left: -13px;
+}
+.french-press .coffee-background {
+  background: #603620;
+  height: 45px;
+  width: 30px;
+  position: absolute;
+  z-index: -1;
+  bottom: 4px;
+  left: 4px;
+}
+.french-press .coffee-background.waiting {
+  border-top: 4px solid #915930;
+  height: 42px;
+}
+.french-press .coffee {
+  background: #603620;
+  height: 7px;
+  width: 30px;
+  position: absolute;
+  z-index: 0;
+  bottom: 4px;
+  left: 4px;
+}
+.french-press .coffee.plunging {
+  height: 45px;
+  -webkit-animation-name: coffee-plunge;
+  animation-name: coffee-plunge;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.french-press .coffee.plunging:before {
+  content: "";
+  position: absolute;
+  display: block;
+  top: 0;
+  height: 4px;
+  background: #915930;
+  width: 30px;
+  -webkit-animation-name: foam-disappear;
+  animation-name: foam-disappear;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+}
+.french-press .handle {
+  width: 10px;
+  height: 25px;
+  border: 4px solid black;
+  border-radius: 0 8px 8px 0;
+  border-left: 0;
+  position: absolute;
+  top: 10px;
+  left: 38px;
+  z-index: 2;
+}
+.french-press .handle:before {
+  position: absolute;
+  content: "";
+  height: 4px;
+  width: 30px;
+  background: gray;
+  top: -4px;
+  left: -34px;
+}
+.french-press .frame {
+  border: 4px solid gray;
+  border-top: 0;
+  border-bottom: 0;
+  width: 16px;
+  height: 45px;
+  position: absolute;
+  top: 10px;
+  left: 7px;
+  z-index: 2;
+}
+.french-press .frame:after {
+  content: "";
+  position: absolute;
+  top: 43px;
+  left: -6px;
+  height: 5px;
+  width: 5px;
+  background: gray;
+  border-radius: 15px 0 11px 0;
+}
+.french-press .frame:before {
+  content: "";
+  position: absolute;
+  top: 43px;
+  left: 17px;
+  height: 5px;
+  width: 5px;
+  background: gray;
+  border-radius: 0 15px 0 11px;
+}
+.french-press .body {
+  border: 4px solid #D8D8D8;
+  border-top: 0;
+  height: 50px;
+  width: 30px;
+  border-radius: 0 0 5px 5px;
+  position: relative;
+}
+.french-press .body:before {
+  content: "";
+  position: absolute;
+  left: -9px;
+  width: 8px;
+  height: 8px;
+  background: #D8D8D8;
+  border-radius: 0 0 0 15px;
+}
+
+.pouring-water {
+  position: relative;
+  margin: 80px 0 150px;
+  position: relative;
+}
+.pouring-water .french-press {
+  top: 55px;
+}
+
+.kettle {
+  position: relative;
+  margin: 50px 0;
+}
+.kettle.pouring {
+  margin: 0;
+  position: absolute;
+  left: 36px;
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  -webkit-animation-name: kettle-moving;
+  animation-name: kettle-moving;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.kettle .body {
+  height: 55px;
+  width: 37px;
+  background: gray;
+  border: 0;
+  border-radius: 40px 40px 5px 5px;
+}
+.kettle .body:after {
+  content: "";
+  position: absolute;
+  display: block;
+  background: red;
+  height: 8px;
+  width: 8px;
+  border-radius: 4px;
+  top: -8px;
+  left: 15px;
+}
+.kettle .handle {
+  width: 7px;
+  height: 15px;
+  border: 4px solid black;
+  border-radius: 0 15px 15px 0;
+  border-left: 0;
+  position: absolute;
+  left: 37px;
+  top: 15px;
+}
+.kettle .handle:before {
+  background: gray;
+  content: "";
+  top: -5px;
+  left: -7px;
+  height: 10px;
+  border-radius: 0 0 0 15px;
+  width: 6px;
+  left: -42px;
+  display: block;
+  position: absolute;
+}
+
+.water-stream {
+  width: 5px;
+  height: 62px;
+  border-left: 4px solid #71C3D0;
+  border-top: 4px solid #71C3D0;
+  border-radius: 20px;
+  position: absolute;
+  top: 32px;
+  left: 20px;
+  -webkit-animation-name: water-moving, water-stopping;
+  animation-name: water-moving, water-stopping;
+  -webkit-animation-iteration-count: infinite, infinite;
+  animation-iteration-count: infinite, infinite;
+  -webkit-animation-duration: 4s, 4s;
+  animation-duration: 4s, 4s;
+  -webkit-animation-delay: 1s, 1s;
+  animation-delay: 1s, 1s;
+}
+
+.steam {
+  position: absolute;
+  top: 14px;
+  left: -5px;
+  opacity: 0;
+  z-index: -1;
+  -webkit-transform-origin: center top;
+  -ms-transform-origin: center top;
+  transform-origin: center top;
+  -webkit-transform: rotate(-10deg);
+  -ms-transform: rotate(-10deg);
+  transform: rotate(-10deg);
+  -webkit-animation-name: steam-rising;
+  animation-name: steam-rising;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.steam .circle {
+  height: 8px;
+  width: 8px;
+  background: #e6e6e6;
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+}
+.steam .tail {
+  position: absolute;
+  border-bottom: 8px solid transparent;
+  border: 4px solid transparent;
+  border-top: 6px solid #e6e6e6;
+  top: 6px;
+}
+
+@-webkit-keyframes aeropress-plunge {
+  0% {
+    top: -45px;
+  }
+
+  100% {
+    top: -2px;
+  }
+}
+
+@keyframes aeropress-plunge {
+  0% {
+    top: -45px;
+  }
+
+  100% {
+    top: -2px;
+  }
+}
+@-webkit-keyframes aeropress-coffee-diminish {
+  100% {
+    height: 7px;
+  }
+}
+@keyframes aeropress-coffee-diminish {
+  100% {
+    height: 7px;
+  }
+}
+@-webkit-keyframes aeropress-pouring-halfway {
+  100% {
+    height: 10px;
+    border-top: 4px solid #915930;
+  }
+}
+@keyframes aeropress-pouring-halfway {
+  100% {
+    height: 10px;
+    border-top: 4px solid #915930;
+  }
+}
+@-webkit-keyframes aeropress-pouring-full {
+  75% {
+    height: 40px;
+  }
+
+  100% {
+    height: 40px;
+  }
+}
+@keyframes aeropress-pouring-full {
+  75% {
+    height: 40px;
+  }
+
+  100% {
+    height: 40px;
+  }
+}
+@-webkit-keyframes kettle-moving-smaller {
+  15% {
+    left: 30px;
+  }
+
+  45% {
+    left: 40px;
+  }
+
+  60% {
+    left: 36px;
+  }
+}
+@keyframes kettle-moving-smaller {
+  15% {
+    left: 30px;
+  }
+
+  45% {
+    left: 40px;
+  }
+
+  60% {
+    left: 36px;
+  }
+}
+@-webkit-keyframes water-moving-smaller {
+  15% {
+    left: 14px;
+  }
+
+  45% {
+    left: 22px;
+  }
+
+  60% {
+    left: 20px;
+  }
+}
+@keyframes water-moving-smaller {
+  15% {
+    left: 14px;
+  }
+
+  45% {
+    left: 22px;
+  }
+
+  60% {
+    left: 20px;
+  }
+}
+@-webkit-keyframes stir {
+  20% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+  }
+
+  40% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+
+  60% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+  }
+
+  80% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+}
+@keyframes stir {
+  20% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+  }
+
+  40% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+
+  60% {
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+  }
+
+  80% {
+    -webkit-transform: rotate(10deg);
+    transform: rotate(10deg);
+  }
+}
+@-webkit-keyframes coffee-stir {
+  100% {
+    border-top: 4px solid #603620;
+  }
+}
+@keyframes coffee-stir {
+  100% {
+    border-top: 4px solid #603620;
+  }
+}
+@-webkit-keyframes move-plunger {
+  30% {
+    top: -48px;
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+
+  55% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    left: 12px;
+  }
+
+  80% {
+    top: -18px;
+    left: 12px;
+  }
+
+  100% {
+    top: -18px;
+    left: 12px;
+  }
+}
+@keyframes move-plunger {
+  30% {
+    top: -48px;
+    -webkit-transform: rotate(5deg);
+    transform: rotate(5deg);
+  }
+
+  55% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    left: 12px;
+  }
+
+  80% {
+    top: -18px;
+    left: 12px;
+  }
+
+  100% {
+    top: -18px;
+    left: 12px;
+  }
+}
+.aeropress-pouring {
+  position: relative;
+  height: 150px;
+}
+.aeropress-pouring .aeropress {
+  top: 38px;
+}
+.aeropress-pouring .mug {
+  top: 39px;
+}
+
+.kettle.pouring-smaller {
+  -webkit-animation-name: kettle-moving-smaller;
+  animation-name: kettle-moving-smaller;
+}
+
+.water-stream.pouring-smaller {
+  -webkit-animation-name: water-moving-smaller, water-stopping;
+  animation-name: water-moving-smaller, water-stopping;
+}
+
+.aeropress {
+  position: relative;
+  height: 70px;
+}
+.aeropress.pouring-smaller .cylinder {
+  width: 16px;
+  left: 8px;
+  height: 46px;
+  top: 20px;
+}
+.aeropress.pouring-smaller .cylinder:before {
+  width: 32px;
+  top: 50px;
+}
+.aeropress.pouring-smaller .cylinder:after {
+  width: 17px;
+  top: 54px;
+}
+.aeropress.pouring-smaller .coffee {
+  width: 16px;
+  left: 12px;
+}
+.aeropress .plunger {
+  width: 20px;
+  height: 50px;
+  border: 4px solid gray;
+  border-top: 0;
+  left: 49px;
+  top: 18px;
+  border-radius: 0 0 4px 4px;
+  position: absolute;
+}
+.aeropress .plunger.moving {
+  width: 8px;
+  height: 39px;
+  top: 18px;
+  top: -18px;
+  left: 12px;
+  top: 58px;
+  left: 48px;
+  -webkit-animation-name: move-plunger;
+  animation-name: move-plunger;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-delay: 2s;
+  animation-delay: 2s;
+}
+.aeropress .plunger.moving:before {
+  width: 16px;
+}
+.aeropress .plunger.moving:after {
+  width: 16px;
+  top: 41px;
+  left: -4px;
+}
+.aeropress .plunger.resting {
+  top: 40px;
+}
+.aeropress .plunger.plunging {
+  top: 0;
+  left: 4px;
+  -webkit-animation-name: aeropress-plunge;
+  animation-name: aeropress-plunge;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+}
+.aeropress .plunger.resting {
+  left: 57px;
+  top: 50px;
+}
+.aeropress .plunger:before {
+  width: 28px;
+  content: "";
+  display: block;
+  position: absolute;
+  height: 4px;
+  border: 4px solid gray;
+  border-top: 0;
+  border-bottom: 0;
+  left: -8px;
+}
+.aeropress .plunger:after {
+  height: 3px;
+  background: black;
+  width: 26px;
+  border-radius: 4px 4px 0 0;
+  content: "";
+  display: block;
+  position: absolute;
+  top: 54px;
+  left: -3px;
+}
+.aeropress .cylinder {
+  width: 28px;
+  height: 59px;
+  border: 4px solid #4E4D4C;
+  position: absolute;
+  left: 0px;
+  top: 5px;
+  border-top: 0;
+}
+.aeropress .cylinder:before {
+  width: 44px;
+  left: -8px;
+  top: 63px;
+  height: 4px;
+  background: #4E4D4C;
+  content: "";
+  display: block;
+  position: absolute;
+}
+.aeropress .cylinder:after {
+  content: "";
+  display: block;
+  position: absolute;
+  height: 4px;
+  background: black;
+  width: 28px;
+  top: 66px;
+}
+.aeropress .stirrer {
+  z-index: -1;
+  position: absolute;
+  width: 18px;
+  height: 62px;
+  background: black;
+  border-radius: 5px;
+  left: 9px;
+  top: -8px;
+  -webkit-animation-name: stir;
+  animation-name: stir;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.aeropress .stirrer:before {
+  position: absolute;
+  display: block;
+  content: "";
+  border-radius: 5px;
+  width: 30px;
+  left: -6px;
+  height: 20px;
+  background: black;
+  top: -10px;
+}
+.aeropress .coffee {
+  left: 4px;
+  bottom: 4px;
+  background: #603620;
+  height: 50px;
+  width: 28px;
+  position: absolute;
+}
+.aeropress .coffee.grounds {
+  height: 5px;
+  border-top: 4px solid #603620;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.aeropress .coffee.smaller {
+  height: 38px;
+}
+.aeropress .coffee.stirring {
+  height: 10px;
+  border-top: 4px solid #915930;
+  -webkit-animation-name: coffee-stir;
+  animation-name: coffee-stir;
+  -webkit-animation-duration: 2s;
+  animation-duration: 2s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+.aeropress .coffee.pouring-full {
+  height: 10px;
+  -webkit-animation-name: aeropress-pouring-full;
+  animation-name: aeropress-pouring-full;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.aeropress .coffee.pouring-halfway {
+  -webkit-animation-name: aeropress-pouring-halfway;
+  animation-name: aeropress-pouring-halfway;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
+}
+.aeropress .coffee.plunging {
+  -webkit-animation-name: aeropress-coffee-diminish;
+  animation-name: aeropress-coffee-diminish;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -webkit-animation-duration: 4s;
+  animation-duration: 4s;
+}
+
+.mug {
+  position: relative;
+  width: 36px;
+  height: 37px;
+  background: red;
+  margin-top: 1px;
+}
+.mug:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 5px;
+  height: 15px;
+  border: 4px solid red;
+  border-radius: 0 7px 7px 0;
+  left: 34px;
+  top: 7px;
+}
+.mug.smaller {
+  top: 41px;
+  width: 27px;
+  left: 6px;
+  height: 28px;
+}
+.mug.smaller.higher {
+  top: 3px;
+}
+.mug.smaller:after {
+  width: 3px;
+  height: 9px;
+  left: 23px;
+  top: 5px;
+}
